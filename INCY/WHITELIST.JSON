@@ -1,7 +1,7 @@
 {
-  "Name": "RoscomVPN Whitelist",
+  "Name": "RoscomVPN-SVST Whitelist",
   "GlobalProxy": "true",
-  "UseChunkFiles": "true",
+  "UseChunkFiles": "false",
   "RemoteDns": "8.8.8.8",
   "DomesticDns": "77.88.8.8",
   "RemoteDNSType": "DoH",
